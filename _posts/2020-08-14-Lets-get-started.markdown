@@ -12,4 +12,4 @@ Welcome, to my first blog post.
 Here i intend to put out some useful information that have helped me over the years, mostly things are going to tech related.
 
 Let's hope this blog become a bit more popular maybe few years from now.
-Meanwhile checkout my portfolio → [click-here]: https://dvlpr.in/
+Meanwhile checkout my portfolio - [click-here]: https://dvlpr.in
